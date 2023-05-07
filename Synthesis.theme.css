@@ -30,7 +30,7 @@ Join Salt's Discord Themes server! https://discord.gg/uy8nKQVatp
 /* See https://github.com/Saltssaumure/synthesis-discord-theme/blob/main/README.md for customisation settings. */
 :root {
     --synth-bg-image:       url(https://i.imgur.com/FRRKFqd.jpg); 
-    --synth-overlay-color:  rgba(147, 80, 100, 0.1);
+    --synth-overlay-color:  rgba(147, 80, 100, 0.05);
     --crt-scanline-light:   rgba(255, 255, 255, 0.05);
     --crt-scanline-dark:    rgba(0, 0, 0, 0.1);
     --crt-flicker:          none;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
